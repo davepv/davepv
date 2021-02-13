@@ -1,0 +1,6 @@
+- name: @davepv
+- job: mechanic for semitrucks and citybusses
+- school: studying electronics
+- city: winterthur, switzerland
+- interests: electronics, fpv, drones, 3dprinting, parkour
+- how to reach me: https://www.facebook.com/davepv/
